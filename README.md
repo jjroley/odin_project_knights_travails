@@ -1,1 +1,1 @@
-# odin_project_knights_travails
+# Odin Project challenge: Knights Travails
